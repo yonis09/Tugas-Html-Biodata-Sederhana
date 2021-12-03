@@ -1,0 +1,34 @@
+table
+{
+   font-family: arial;
+   font-style: normal;
+   font-weight: bolder;
+   font-size: 15px;
+   color: yellow;
+}
+.wrap{
+         width: 700px;
+         color: blue;
+         margin: 20px AUTO;
+         padding: 15px;}
+    }
+body 
+{
+   padding:0;
+   margin:0;
+   min-width: 1000px;
+   background-repeat: repeat;
+   background-attachment: fixed;
+   background-position: top left;
+}
+.art-page-background
+{
+   position: relative;
+   background-image: url('wp4878653.jpg');
+   background-repeat:AUTO;
+   background-position:AUTO;
+   background-attachment: auto;
+   width:100%;
+   min-width: 120px;
+   min-height:150%;
+}
