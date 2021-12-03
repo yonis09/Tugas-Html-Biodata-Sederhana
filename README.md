@@ -1,2 +1,0 @@
-tugas html
-tugas biodata
